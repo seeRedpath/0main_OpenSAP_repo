@@ -1,2 +1,1 @@
-# SAP_Learning
-https://learning.sap.com/learning-journey/modeling-in-sap-hana-cloud/working-with-git-within-sap-business-application-studio
+Main Repository for Git Web IDE Demos
